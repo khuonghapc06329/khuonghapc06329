@@ -34,7 +34,6 @@
   </a> -->
   <a href="mailto:khuonghapc06329@fpt.edu.vn" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-    <img src="https://tenor.com/vi/view/card-codes-gif-21814106"/>
   </a>
 </p>
 
@@ -68,6 +67,7 @@
     <td>
       <p align="center"> 
         <img src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="dev" width="100%"/>
+        <img src="https://tenor.com/vi/view/card-codes-gif-21814106.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
