@@ -30,7 +30,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   <a href="" alt="Kaggle" target="_blank" >
-    <img width="5%" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png"/>
+    <img width="4%" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png"/>
   </a>
   <a href="mailto:khuonghapc06329@fpt.edu.vn" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
