@@ -64,7 +64,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=khuonghapc06329&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="khuonghapc06329" width="100%"/>
     </td>
     <td align="center">
-      <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" alt="dev" width="100%"/>
+      <img src="https://media1.tenor.com/m/i3lImBg2UEQAAAAd/scaler-create-impact.gif" alt="dev" width="100%"/>
     </td>
   </tr>
 </table>
