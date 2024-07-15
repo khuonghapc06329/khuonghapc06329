@@ -77,7 +77,7 @@
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Onramp](https://xuongthuchanh.poly.edu.vn/certificate/PC06329/666147893fe05c6471c7aa01)
+- [![MATLAB](https://xuongthuchanh.poly.edu.vn/assets/xuongfavicon-85673498.png) Onramp](https://xuongthuchanh.poly.edu.vn/certificate/PC06329/666147893fe05c6471c7aa01)
 - [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
