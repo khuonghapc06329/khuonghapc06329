@@ -66,7 +66,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://media.tenor.com/fl0lTSUz7GMAAAAd/bruce-almighty-jim-carrey.gif" alt="dev" width="100%"/>
+        <img src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
