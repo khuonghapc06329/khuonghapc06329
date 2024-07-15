@@ -40,7 +40,7 @@
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/?size=48&id=13679&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/?size=48&id=EAUyKy3IwmqM&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=48&id=21278&format=png&color=000000"/>
