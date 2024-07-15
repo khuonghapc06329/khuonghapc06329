@@ -66,7 +66,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="dev" width="100%"/><br>
+    
         <img src="https://media1.tenor.com/m/JfKBjBSgilAAAAAC/card-codes.gif" alt="dev" width="100%"/>
       </p>
     </td>
