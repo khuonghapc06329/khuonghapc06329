@@ -75,5 +75,5 @@
 
 # Certificates:
 
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+<img align="right" width="400" src="https://xuongthuchanh.poly.edu.vn/certificate/PC06329/666147893fe05c6471c7aa01">
 
