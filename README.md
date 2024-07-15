@@ -66,7 +66,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://ezgif.com/video-to-gif/ezgif-5-2dfda5c16d.mp4" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
