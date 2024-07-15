@@ -64,11 +64,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=khuonghapc06329&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="khuonghapc06329" width="100%"/>
     </td>
     <td align="center">
-      <div class="tenor-gif-embed" data-postid="21814106" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-        <a href="https://tenor.com/view/card-codes-gif-21814106">Card Codes GIF</a> from 
-        <a href="https://tenor.com/search/card+codes-gifs">Card Codes GIFs</a>
-      </div> 
-      <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+      <img src="https://tenor.com/vi/view/rageman-gif-26473116.gif" alt="dev" width="100%"/>
     </td>
   </tr>
 </table>
