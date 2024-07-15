@@ -73,6 +73,4 @@
 </table>
 
 
-<img align="" width="100%" src="https://xuongthuchanh.poly.edu.vn/certificate/PC06329/666147893fe05c6471c7aa01">
-<img src="https://xuongthuchanh.poly.edu.vn/certificate/PC06329/666147893fe05c6471c7aa01">
 
