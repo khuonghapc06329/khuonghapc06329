@@ -17,9 +17,9 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="" target="_blank">
+<!--   <a href="" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
+  </a> -->
   <a href="https://www.facebook.com/khuong.huynhan.7" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
@@ -29,9 +29,9 @@
   <a href="https://www.youtube.com/@khuonghapc06329" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="" alt="Kaggle" target="_blank" >
+<!--   <a href="" alt="Kaggle" target="_blank" >
     <img width="4%" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png"/>
-  </a>
+  </a> -->
   <a href="mailto:khuonghapc06329@fpt.edu.vn" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
