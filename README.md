@@ -47,7 +47,7 @@
   <img src="https://img.icons8.com/?size=48&id=108784&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=48&id=13664&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=48&id=fAMVO_fuoOuC&format=png&color=000000"/>
-  <img width="45px" src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png"/>
+  <img width="42px" src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
