@@ -1,15 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/149867280?v=4" height="200"/>
-</p>
-<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Age-21-blue" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Vietnamese-brightgreen" />
-</p>
-<hr>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Khuong Huynh</h1>
 <h3 align="center">Full Stack Web Developer | Backend Developer </h3>
@@ -18,6 +7,13 @@
 <a href="mailto:oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail_ovindu" height="30" width="40" /></a>
 <a href="https://github.com/OvinduWijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github_ovindu" height="30" width="40" /></a>
 <a href="https://slack.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack_ovindu" height="40" width="40" /></a>
+</p>
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-21-blue" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Vietnamese-brightgreen" />
 </p>
 
 <p align="center">
