@@ -17,11 +17,12 @@
 </p>
 
 <p align="center">
-  <em>
-    Hello, I am Khuong Huynh, a <b>final year</b> undergraduate from <a href="https://caodang.fpt.edu.vn/"> <b>FPT Polytechnic</b></a>. <br>
-    Currently, I am working at <a href="https://epal.vn/"><b>Epal Solution Corp</b></a> and <a href="https://tpsoftct.vn"><b>TP Soft (Medical Digital)</b>.</a>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;<br>who loves building dynamic and responsive websites, especially focusing on <b>Backend Development</b>.
-  </em> 
+<em>
+    Hello, I am Khuong Huynh, a <b>final year</b> undergraduate from <a href="https://caodang.fpt.edu.vn/"><b>FPT Polytechnic</b></a>. <br>
+    Currently, I am working at <a href="https://epal.vn/"><b>Epal Solution Corp</b></a> and <a href="https://tpsoftct.vn"><b>TP Soft (Medical Digital)</b></a>. <br>
+    I am <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp; <br>
+    who loves building dynamic and responsive websites, with a strong focus on <b>Backend Development</b>.
+</em>
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "The web is your canvas, make it meaningful!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
