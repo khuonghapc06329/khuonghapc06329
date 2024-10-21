@@ -1,73 +1,87 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://avatars.githubusercontent.com/u/149867280?v=4" />
-<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
-
-<h2 align="center">Hi 👋, I'm KhuongHuynh</h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+</p>
+<br>
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-26-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
+<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<p align="center">
+<a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
+ <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+</p>
 </p>
 
-> ✍ I'm a software developer at [FPT Polytechnic](https://caodang.fpt.edu.vn/).
 
-<br />
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
-
-## 📫 How to reach me:
 
 <p align="center">
-<!--   <a href="" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a> -->
-  <a href="https://www.facebook.com/khuong.huynhan.7" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/khuonghapc06329" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/@khuonghapc06329" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-<!--   <a href="" alt="Kaggle" target="_blank" >
-    <img width="4%" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png"/>
-  </a> -->
-  <a href="mailto:khuonghapc06329@fpt.edu.vn" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
+  <em>
+    Hello, I am Ovindu Wijethunge a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-## Skills:
-<p align="center">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-  <img src="https://img.icons8.com/?size=48&id=13679&format=png&color=000000"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/?size=48&id=EAUyKy3IwmqM&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=48&id=21278&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=48&id=108784&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=48&id=13664&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=48&id=fAMVO_fuoOuC&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=48&id=hUvxmdu7Rloj&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png&color=000000"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
+✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
+✔ I’m currently learning about **deep learning**🥰<br>
+✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
-</p>
 
-## Activities:
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuonghapc06329&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="khuonghapc06329" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=khuonghapc06329&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="khuonghapc06329" width="100%"/>
-    </td>
-    <td align="center">
-      <img src="https://media1.tenor.com/m/i3lImBg2UEQAAAAd/scaler-create-impact.gif" alt="dev" width="100%"/>
-    </td>
-  </tr>
-</table>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<p align="left">
+  
+ <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="SCSS"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="Tailwind CSS"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="WordPress"></code>
+  <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
+
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+
+
+-----
+Credits: [Ovindu Wijethunge](https://github.com/khuonghapc06329)
+
+Last Edited on: 17/04/2021
 
 
 
