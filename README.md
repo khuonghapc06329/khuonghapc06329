@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Vietnamese-brightgreen" />
 </p>
 <hr>
 
