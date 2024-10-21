@@ -55,6 +55,9 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="WordPress"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code"></code>
+<code><img height="50" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PHPStorm_icon.png" alt="PHPStorm"></code>
+<code><img height="50" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" alt="WebStorm"></code>
 <hr>
 
 
