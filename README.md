@@ -3,9 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Khuong Huynh</h1>
 <h3 align="center">Full Stack Web Developer | Backend Developer </h3>
 <p align="center">
-<a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
-<a href="mailto:oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail_ovindu" height="30" width="40" /></a>
-<a href="https://github.com/OvinduWijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github_ovindu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/khuong.huynhan.7" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
+<a href="mailto:khuonghapc06329@fpt.edu.vn"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail_ovindu" height="30" width="40" /></a>
+<a href="https://github.com/khuonghapc06329" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github_ovindu" height="30" width="40" /></a>
 <a href="https://slack.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack_ovindu" height="40" width="40" /></a>
 </p>
 <hr>
