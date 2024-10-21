@@ -41,21 +41,86 @@
 
 <p align="left">
   
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="SCSS"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="Tailwind CSS"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="WordPress"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code"></code>
-<code><img height="50" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PHPStorm_icon.png" alt="PHPStorm"></code>
-<code><img height="50" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" alt="WebStorm"></code>
+<img
+          src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+          alt="HTML5"
+        />
+        <img
+          src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+          alt="CSS3"
+        />
+        <img
+          src="https://img.shields.io/badge/scss-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"
+          alt="SCSS"
+        />
+        <img
+          src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+          alt="JavaScript"
+        />
+        <img
+          src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white"
+          alt="NodeJS"
+        />
+        <img
+          src="https://img.shields.io/badge/bootstrap-%23430098.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+          alt="Bootstrap"
+        />
+        <img
+          src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+          alt="TailwindCSS"
+        />
+        <img
+          src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
+          alt="PHP"
+        />
+        <img
+          src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"
+          alt="Laravel"
+        />
+        <img
+          src="https://img.shields.io/badge/wordpress-%234165E8.svg?style=for-the-badge&logo=wordpress&logoColor=white"
+          alt="WordPress"
+        />
+        <img
+          src="https://img.shields.io/badge/mysql-%234EA94B.svg?style=for-the-badge&logo=mysql&logoColor=white"
+          alt="MySQL"
+        />
+        <img
+          src="https://img.shields.io/badge/angular-%E23237.svg?style=for-the-badge&logo=angular&logoColor=white"
+          alt="Angular"
+        />
+        <img
+          src="https://img.shields.io/badge/visualstudiocode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+          alt="VS Code"
+        />
+        <img
+          src="https://img.shields.io/badge/phpstorm-%23282C34.svg?style=for-the-badge&logo=phpstorm&logoColor=white"
+          alt="PHPStorm"
+        />
+        <img
+          src="https://img.shields.io/badge/webstorm-%233B5998.svg?style=for-the-badge&logo=webstorm&logoColor=white"
+          alt="WebStorm"
+        />
+        <img
+          src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"
+          alt="Adobe Photoshop"
+        />
+        <img
+          src="https://img.shields.io/badge/figma-%F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
+          alt="Figma"
+        />
+        <img
+          src="https://img.shields.io/badge/jira-%2300052B.svg?style=for-the-badge&logo=jira&logoColor=white"
+          alt="Jira"
+        />
+        <img
+          src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+          alt="Git"
+        />
+        <img
+          src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"
+          alt="GitHub"
+        />
 <hr>
 
 
