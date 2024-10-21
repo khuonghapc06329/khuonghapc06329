@@ -63,6 +63,6 @@
 
 
 -----
-Credits: [Ovindu Wijethunge](https://github.com/khuonghapc06329)
+Credits: [Khuong Huynh](https://github.com/khuonghapc06329)
 
 Last Edited on: 17/04/2021
